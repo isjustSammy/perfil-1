@@ -1,5 +1,23 @@
-.card-img-top{
-    height: 500px;
-    width: 500px;
+.card-group{
+    height: 100%;
+    width: 100%;
+    border: 50px solid #ccc;
+}
+.card-alone{
+    height: 50%;
+    width: 100%;
+    border: 50px solid #ccc;
+    text-align: center;
+}
+
+.card-alone img{
+    position: relative;
+    left: 480px ;
+}
+
+.img-al{
+    height: 50%;
+    width: 50%;
+    border: 50px solid #ccc;
     
 }
